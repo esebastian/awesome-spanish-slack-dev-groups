@@ -14,6 +14,7 @@ Todas las sugerencias y contribuciones son bienvenidas. Si tienes alguna, por fa
 - [AlicanteTech](https://www.alicantetech.es/slack/)
 - [AsturiasDev](https://asturiasdev.herokuapp.com/)
 - [BarcelonaJS](http://barcelonajs.herokuapp.com)
+- [Barcelona Java Users Group](https://barcelonajug.org)
 - [BcnEng](http://slack.bcneng.net/)
 - [CanariasDev](https://publicslack.com/slacks/canariasdev/invites/new)
 - [CiudadReal.rb](http://slack.ciudadrealrb.org)
